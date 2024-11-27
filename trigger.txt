@@ -1,1 +1,1 @@
-nginx:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/nginx:latest
+langgenius/dify-sandbox:0.2.10 crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/langgenius/dify-sandbox:0.2.10
