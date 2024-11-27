@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/dify-sandbox:latest
+ubuntu/squid:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/squid:latest
