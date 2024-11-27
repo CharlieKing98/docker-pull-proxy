@@ -1,1 +1,1 @@
-langgenius/dify-web:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/dify-web:latest
+postgres:15-alpine crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/postgres:15-alpine
