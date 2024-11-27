@@ -1,1 +1,15 @@
-crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/dify_zjf:latest registry.cn-hangzhou.aliyuncs.com/zkjc/dify_zjf:latest
+langgenius/dify-api:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/dify-api:latest
+
+langgenius/dify-web:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/dify-web:latest
+
+postgres:15-alpine crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/postgres:15-alpine
+
+redis:6-alpine crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/redis:6-alpine
+
+semitechnologies/weaviate:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/weaviate:latest
+
+langgenius/dify-sandbox:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/dify-sandbox:latest
+
+ubuntu/squid:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/squid:latest
+
+nginx:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/nginx:latest
