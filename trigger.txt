@@ -1,1 +1,1 @@
-langgenius/dify-api:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/dify-api:latest
+langgenius/dify-web:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/dify-web:latest
