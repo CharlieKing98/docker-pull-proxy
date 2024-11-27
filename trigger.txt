@@ -1,1 +1,1 @@
-postgres:15-alpine crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/postgres:15-alpine
+redis:6-alpine crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/redis:6-alpine
