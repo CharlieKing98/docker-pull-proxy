@@ -1,1 +1,1 @@
-redis:6-alpine crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/redis:6-alpine
+semitechnologies/weaviate:latest crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/weaviate:latest
