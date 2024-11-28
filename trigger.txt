@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.19.0 crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/weaviate:1.19.0
+langgenius/dify-api:0.12.1 crpi-w39tfiqekz858zr1.cn-hangzhou.personal.cr.aliyuncs.com/zkjc/dify-api:0.12.1
